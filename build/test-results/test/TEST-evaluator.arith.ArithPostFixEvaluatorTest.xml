@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="evaluator.arith.ArithPostFixEvaluatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-06-24T21:31:12" hostname="pv16mbpr23" time="0.083">
+  <properties/>
+  <testcase name="testEvaluateNegate" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.028"/>
+  <testcase name="testEvaluateSimple" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.003"/>
+  <testcase name="testEvaluateSub" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.013"/>
+  <testcase name="testEvaluate" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.008"/>
+  <testcase name="testEvaluateMult" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.008"/>
+  <testcase name="testEvaluatePlus" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.008"/>
+  <testcase name="testInvalidExpression2" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.003"/>
+  <testcase name="testInvalidExpression3" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.004"/>
+  <testcase name="testInvalidExpression" classname="evaluator.arith.ArithPostFixEvaluatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
