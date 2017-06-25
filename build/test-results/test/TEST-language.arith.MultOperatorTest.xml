@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="language.arith.MultOperatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-06-24T21:31:12" hostname="pv16mbpr23" time="0.015">
+<testsuite name="language.arith.MultOperatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-06-24T21:40:41" hostname="pv16mbpr23" time="0.018">
   <properties/>
   <testcase name="testIllegalArgumentException" classname="language.arith.MultOperatorTest" time="0.001"/>
   <testcase name="testIllegalStateException" classname="language.arith.MultOperatorTest" time="0.0"/>
   <testcase name="testPerformOperation" classname="language.arith.MultOperatorTest" time="0.0"/>
-  <testcase name="testGetNumberOfArguments" classname="language.arith.MultOperatorTest" time="0.001"/>
-  <testcase name="testNullArgumentException" classname="language.arith.MultOperatorTest" time="0.001"/>
-  <testcase name="testIllegalStateExceptionPerform" classname="language.arith.MultOperatorTest" time="0.01"/>
+  <testcase name="testGetNumberOfArguments" classname="language.arith.MultOperatorTest" time="0.0"/>
+  <testcase name="testNullArgumentException" classname="language.arith.MultOperatorTest" time="0.0"/>
+  <testcase name="testIllegalStateExceptionPerform" classname="language.arith.MultOperatorTest" time="0.014"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
